@@ -20,3 +20,7 @@ At the end you have a sorted list.
 > [49, -1, -1, 66, -1, -1, -1, -1, 74, -1]
 
 ```
+
+# Idea source
+
+![Source](source.jpg)
