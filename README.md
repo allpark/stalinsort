@@ -14,9 +14,9 @@ At the end you have a sorted list.
 
 ```python
 
-> x =  [49, 28, 19, 66, 58, 15, 26, 7, 74, 42]
-> stalinSort(x) # where x is an array of numerical elements 
-> print(x)
+> line =  [49, 28, 19, 66, 58, 15, 26, 7, 74, 42]
+> stalinSort(line) # where x is an array of numerical elements 
+> print(line)
 > [49, -1, -1, 66, -1, -1, -1, -1, 74, -1]
 
 ```
