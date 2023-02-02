@@ -4,7 +4,7 @@ def stalinSort(line):
     # go through the line
     for i in range(1, len(line)):
         comrade = max(comrade, line[i])
-        # decide which consecutive is out of order
+        # decide if next in line is out of order
         if (comrade>line[i]):
-            # eliminate comrade which is out of order
+            # eliminate 
             line[i] = None
